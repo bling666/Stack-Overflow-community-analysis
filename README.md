@@ -12,4 +12,4 @@ Stack Overflow作为广受欢迎的计算机领域的问答社区，积累了许
 
 ## 实现页面
 
-![]([.\img\主页面.png](https://github.com/bling666/Stack-Overflow-community-analysis/blob/main/img/%E6%B5%81%E7%A8%8B%E5%9B%BE.png))
+![](https://github.com/bling666/Stack-Overflow-community-analysis/blob/main/img/%E4%B8%BB%E9%A1%B5%E9%9D%A2.png)
